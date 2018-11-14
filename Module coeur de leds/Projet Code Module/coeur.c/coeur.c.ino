@@ -57,12 +57,12 @@ void chenille()
 {
 for (int n =4; n <=13; n = n+1)
 {
-  
+    if (n == 4)
+    {digitalWrite(13, LOW);}
   digitalWrite(n, HIGH);
   digitalWrite(n-1, LOW);
   delay(500);
-  if (n == 4)
-    digitalWrite(13, LOW);
+
 }
 
 }

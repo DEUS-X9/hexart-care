@@ -1,2 +1,2 @@
 #define choix 2
-int nb = 6;
+int nb = 11;
