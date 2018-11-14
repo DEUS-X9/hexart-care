@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1542110258 source:c:\users\lucas\desktop\projet code module\module led\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"generationCode.h"
+
+1542109904 c:\users\lucas\desktop\projet code module\module led\menu.h
+
+1542107732 c:\users\lucas\desktop\projet code module\module led\generationcode.h
+
+1542110329 source:c:\users\lucas\desktop\projet code module\module led\generationcode.c
+	<stdio.h>
+	"menu.h"
+
+1542110251 source:c:\users\lucas\desktop\projet code module\module led\menu.c
+	<stdio.h>
+	<stdlib.h>
+
