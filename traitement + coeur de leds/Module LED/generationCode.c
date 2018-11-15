@@ -13,23 +13,23 @@ if (fichier != NULL)
 switch(choixparam)
 {
     case 1:
-        fputs("#define choix 1", fichier);
+        fputs("#define choix 1\n", fichier);
         fprintf(fichier, "int nb = 6;");
         break;
     case 2:
-        fputs("#define choix 2", fichier);
+        fputs("#define choix 2\n", fichier);
         fprintf(fichier, "int nb = 6;");
         break;
     case 3:
-        fputs("#define choix 3", fichier);
+        fputs("#define choix 3\n", fichier);
         fprintf(fichier, "int nb = 6;");
         break;
     case 4:
-        fputs("#define choix 4", fichier);
+        fputs("#define choix 4\n", fichier);
         fprintf(fichier, "int nb = 6;");
         break;
     case 5:
-        fputs("#define choix 5", fichier);
+        fputs("#define choix 5\n", fichier);
         fprintf(fichier, "int nb = 6;");
         break;
     case 6:
