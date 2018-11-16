@@ -4,7 +4,7 @@
 void pulse()//Cette fonction permet d'obtenir le nombre de battements toutes les 30sec 
 {
 int pouls= 0;
-int temps =30000;//Temps choisi par intervalle en milliseconde
+int temps =5000;//Temps choisi par intervalle en milliseconde
 int t1 = millis();
 int t2 = 0;
 
@@ -22,5 +22,5 @@ int sensorValue = analogRead(A0);//lecture des données des capteurs
 }
   Serial.print(millis());
   Serial.print(";");
-  Serial.println(pouls);//Affiche dans le montieur le nombre de battements en 30 sec ainsi que le temps depuis le début du programme
+  Serial.println(pouls*12);//Affiche dans le montieur le nombre de battements en 30 sec ainsi que le temps depuis le début du programme
 }
