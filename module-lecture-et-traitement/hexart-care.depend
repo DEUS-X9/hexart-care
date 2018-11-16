@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1542294935 source:c:\users\maxen\onedrive\bureau\nouveau dossier (2)\hexart-care\action.c
+	<stdio.h>
+	<stdlib.h>
+	"action.h"
+	"donnees.h"
+
+1542293969 c:\users\maxen\onedrive\bureau\nouveau dossier (2)\hexart-care\donnees.h
+
+1542292447 source:c:\users\maxen\onedrive\bureau\nouveau dossier (2)\hexart-care\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees.h"
+
+1542293070 source:c:\users\maxen\onedrive\bureau\nouveau dossier (2)\hexart-care\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees.h"
+	"menu.h"
+	"action.h"
+
+1542292907 source:c:\users\maxen\onedrive\bureau\nouveau dossier (2)\hexart-care\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"action.h"
+
+1542292854 c:\users\maxen\onedrive\bureau\nouveau dossier (2)\hexart-care\action.h
+
+1542292316 c:\users\maxen\onedrive\bureau\nouveau dossier (2)\hexart-care\menu.h
+
+1542368655 source:c:\users\maxen\onedrive\bureau\projet a1\hexart-care\action.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+
+1542363330 c:\users\maxen\onedrive\bureau\projet a1\hexart-care\action.h
+
+1542300381 c:\users\maxen\onedrive\bureau\projet a1\hexart-care\donnees.h
+
+1542299833 source:c:\users\maxen\onedrive\bureau\projet a1\hexart-care\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1542292316 c:\users\maxen\onedrive\bureau\projet a1\hexart-care\menu.h
+
+1542363423 source:c:\users\maxen\onedrive\bureau\projet a1\hexart-care\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"action.h"
+
+1542360053 source:c:\users\maxen\onedrive\bureau\projet a1\hexart-care\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"donnees.h"
+

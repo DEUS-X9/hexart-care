@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "donnees.h"
+
+#include "menu.h"
+
 
 int main(){
-    //menu();
-    lirefichier();
+    menu();
+    return 0;
 }
+
