@@ -5,7 +5,7 @@
 
 void setup()
 { 
-Serial.begin(9600);
+Serial.begin(115200);
 for (int n =4; n <=13; n++)
 {
   pinMode(n, OUTPUT);//Inititialisation de tous les ports de l'arduino (qui correspond dans notre montage à la totalité des LEDS du coeur)
